@@ -1,0 +1,21 @@
+Geschäftlich;https://www.eventbrite.de/d/germany--berlin/business--events/
+Essen und Trinken;https://www.eventbrite.de/d/germany--berlin/food-and-drink--events/
+Gesundheit;https://www.eventbrite.de/d/germany--berlin/health--events/
+Musik;https://www.eventbrite.de/d/germany--berlin/music--events/
+Auto, Boot und Luftfahrt;https://www.eventbrite.de/d/germany--berlin/auto-boat-and-air--events/
+Wohltätigkeits- und Spendenaktionen;https://www.eventbrite.de/d/germany--berlin/charity-and-causes--events/
+Community;https://www.eventbrite.de/d/germany--berlin/community--events/
+Familie und Bildung;https://www.eventbrite.de/d/germany--berlin/family-and-education--events/
+Fashion;https://www.eventbrite.de/d/germany--berlin/fashion--events/
+Film und Medien;https://www.eventbrite.de/d/germany--berlin/film-and-media--events/
+Hobbys;https://www.eventbrite.de/d/germany--berlin/hobbies--events/
+Wohnen und Lifestyle;https://www.eventbrite.de/d/germany--berlin/home-and-lifestyle--events/
+Darstellende und bildende Kunst;https://www.eventbrite.de/d/germany--berlin/arts--events/
+Politik;https://www.eventbrite.de/d/germany--berlin/government--events/
+Spiritualität;https://www.eventbrite.de/d/germany--berlin/spirituality--events/
+Schulaktivitäten;https://www.eventbrite.de/d/germany--berlin/school-activities--events/
+Wissenschaft und Technik;https://www.eventbrite.de/d/germany--berlin/science-and-tech--events/
+Ferien;https://www.eventbrite.de/d/germany--berlin/holiday--events/
+Sport und Fitness;https://www.eventbrite.de/d/germany--berlin/sports-and-fitness--events/
+Reisen und Outdoor;https://www.eventbrite.de/d/germany--berlin/travel-and-outdoor--events/
+Sonstige;https://www.eventbrite.de/d/germany--berlin/other--events/
